@@ -1,5 +1,7 @@
 # Database Repo!!!
 
+**Repository:** [abel-tefera/toast-database](https://github.com/abel-tefera/toast-database)
+
 Database migrations and schemas for the Toast platform.
 ---
 🤖 Agent fix for LIT-24: Update Readme.md
